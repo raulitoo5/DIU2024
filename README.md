@@ -5,60 +5,173 @@ Grupo: DIU1_01AABB.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+GranadaVentour
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El objetivo de esta práctica es realizar un análisis UX a la página de la empresa GranaVentour
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Raúl Cruz Arévalo     :octocat:     
+ * :bust_in_silhouette:   Manuel Rodríguez Romer     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
-
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
 
->>> Describe el plan de User Research (cómo se planteas)  
+
+## INTRODUCCIÓN
+## ¿De qué trata el proyecto?
+			Nuestro proyecto consiste en analizar la página
+                         web de GranadaVentour para realizar un análisis
+                         de usabilidad de la misma
+## ¿Cuál es el propósito de esta investigación? ¿Qué ideas se generarán con esta investigación?
+ 	El propósito de esta investigación es intentar
+         proporcionar las mejores soluciones a los usuarios
+         que usan este sitio web
+         
+## OBJETIVOS
+
+## OBJETIVOS                                                  KPI'S
+- Mejorar el acceso a las diferentes actividades              - Realizar un análisis sobre la accesibilidad de la página para encontrar fallos y arreglarlos
+- Crecimiento de ingresos                                     - Realizar marketing de calidad para que nuestra web llegue a más personas
+- Que los usuarios prefieran reservar en nuestra web
+  y no a través de otras de la competencia                    - Analizar la posibilidad de implementar un sistema de puntos para que el usuario tenga un
+                                                                descuento cuando tengamos puntos acumulados
+
+
+
+ ## Criterios de búsqueda de éxito 
+
+## ¿ Qué información cualitativa y cuantitativa sobre los usuarios será almacenada ?
+Información cualitativa: sugerencias, opiniones, comentarios
+       y comportamientos que hemos observado durante las pruebas.
+Información cuantitativa: datos de los usuarios como la edad y el género así como algunas métricas como el tiempo en la plataforma, las actividades más demandadas y las funcionalidades más usadas.
+
+## ¿ Qué documentos o artefactos deberán crearse ?
+	Los documentos que vamos a crear son:
+- 2 storyboards o journeymap que muestra las iteraciones de los usuarios con el producto
+- Revisión de usabilidad
+- Análisis de la competencia
+- Mapa de empatía que muestra la forma de ser y el comportamiento de los diferentes tipos de usuarios que interaccionan con nuestro sistema
+
+## ¿ Qué decisiones deben tomarse con el desarrollo de la investigación ?
+Decisiones de marketing. En caso de encontrarnos que el marketing puede ser confuso y que el marketing sea escaso tendremos que tomar decisiones de marketing para que la página llegue a más personas.
+Decisiones de diseño accesible. En caso de encontrarnos que la página no está diseñada de forma que usuarios con alguna discapacidad no puedan interactuar de forma correcta con ella tendremos que tomar decisiones para arreglar estos fallos
+
+## MÉTODOS DE INVESTIGACIÓN
+
+## Investigación primaria
+
+- Etnografía ( observación ): Estudiar cómo los usuarios que comparten una misma zona utilizan la aplicación, con el fin de recoger características comunes a todos ellos.
+- Entrevista de usuario: Realización de entrevistas personales y en grupo para entender al usuario, de cara a mejorar aspectos de la página web (sugerencias, ideas, corrección de errores, etc).
+- Investigación contextual: Estudiar personalmente a los usuarios, para conocer cómo funcionan, lo que quieren y lo que necesitan, y así enfocar la página web lo más personalizada posible.
+- Test de usabilidad: Testear los diferentes componentes/funcionalidades de la página web con el objetivo de solucionar errores, conseguir mayor eficiencia en la misma, y comprobar la correcta interacción con el usuario.
+- Informe post sesión: Generar un informe general de toda la información recopilada en este proceso de investigación, que servirá para llevar un historial de los cambios y del funcionamiento de la página web.
+
+## ALCANCE DE LA INVESTIGACIÓN Y ÁREAS DE ENFOQUE
+
+## 	Componentes de enfoque de diseño
+
+## Utilidad: ¿ Es el contenido útil para los usuarios interesados?
+	
+	Si. El contenido está ceñido a lo que los usuarios buscan: diferentes tipos de actividades/deportes a su gusto, con toda la información referente a cada una de ellas. Los usuarios pueden, de forma complementaria, visualizar contenido multimedia de las actividades, reservarlas, consultar información y preguntar dudas (atención al cliente), etc.
+	
+
+## Aprendizaje: ¿ Cómo de fácil resulta para los usuarios lidiar con tareas básicas la primera vez que se encuentran con el diseño ?
+
+Fácil. El contenido está estructurado de forma que es bastante simple visualizar las actividades que se llevan a cabo en la página web. Además al estar divididas en actividades de invierno, de verano y estructuras móviles pueden ver de forma más directa las actividades que pueden realizar en esa época del año
+
+
+## Eficiencia: Una vez que los usuarios han aprendido el diseño, ¿ con cuánta rapidez pueden llevar a cabo tareas ?
+
+	La página web cuenta con un diseño intuitivo y fácil de usar, de forma que con un sólo vistazo el usuario será capaz de navegar por todos los rincones sin ningún tipo de problema. La idea es que el usuario cumpla sus objetivos en el menor tiempo posible, evitando la frustración del mismo.
+
+
+## Memorabilidad: Cuando los usuarios vuelven al diseño después de un tiempo sin usarlo, ¿ cómo de fácil pueden volver a familiarizarse de forma efectiva ?
+
+Cuando los usuarios vuelven a la página después de un tiempo, volver a familiarizarse con ella es muy sencillo ya que el diseño es intuitivo y fácil de usar lo cual hace que sea bastante simple navegar por ella y encontrar lo que uno está buscando.
+
+
+## Errores: ¿ Cuántos errores cometen los usuarios, cómo de serios son esos errores, y cómo de fácil pueden solucionar esos errores ?
+
+De media los usuarios no suelen cometer errores, pero hay excepciones. Los errores más comunes son: seleccionar una actividad diferente a la deseada, acceder a contenido multimedia no deseado, o reservar una actividad por error (muy poco frecuente). La página web cuenta con un diseño que permite al usuario retroceder en cualquier paso que realice, solucionando fácil y rápidamente cualquier error que este pueda cometer.
+
+## Satisfacción: ¿ Cómo de cómodo es usar el diseño ?
+
+Usar el diseño es bastante cómodo ya que justo al entrar en la página encontramos una barra de navegación con todos los servicios que ofrece la empresa Granaventour por lo que está todo visible y se puede acceder a los distintos servicios que ofrece de forma intuitiva
+
+
+## Persuasión: ¿ Las acciones realizadas son apoyadas y motivadas ?
+
+La página web cuenta con un sistema de notificaciones en tiempo real, de forma que el usuario será consciente en todo momento de los pasos que va realizando. Esto facilita el proceso de reserva, por ejemplo, de forma que el usuario sabe en qué paso se encuentra, y qué acciones lleva a cabo.
+
+
+## EXPERIENCIA EN ESTE CAMPO
+
+
+## 5.1. COMO STAKEHOLDER
+Identificando los objetivos del proyecto
+
+## 5.2. COMO DISEÑADOR
+Realizar propuestas de diseño basado en los datos obtenidos
+de la investigación
+
+## 5.3. COMO OBSERVADOR
+Compartir las observaciones realizadas con el equipo de
+diseño y a los stakeholders
+
+
+## RECLUTAMIENTO DE PARTICIPANTES
+
+Personas que le guste practicar deportes de riesgo ya que tiene una gran variedad en este tipo de actividades como por ejemplo descenso de barranco, escalada y puenting entre otros
+Personas que les guste practicar deportes al aire libre ya que tienen actividades por la montaña como por ejemplo bici de montaña, senderismo y senderismo con raquetas de nieve entre otros
+Personas que les guste los deportes de nieve ya que ofrecen muchas actividades en la nieve como por ejemplo esquí alpino, escalada en hielo, snowboard,etc.
+
+
+
+## CONCLUSIÓN
+
+	Tras realizar una exhaustiva investigación mediante métodos como la etnografía o las pruebas de usabilidad, se ha obtenido una visión integral de la experiencia del usuario en la página web estudiada.
+	La utilidad, el aprendizaje, la eficiencia y la detección de errores han sido abordados con total precisión. Destacar la importancia de mejorar la claridad de la información, implementar recursos multimedia, optimizar la eficiencia del sitio y abordar problemas de usabilidad específicos. Además, hay algunos aspectos que son muy mejorables de esta página, como por ejemplo la funcionalidad de cambiar el idioma ya que no funciona y sería buena opción arreglarla o al menos quitarla, ya que mostrar una funcionalidad que no hace nada queda muy poco profesional. Otra mejora que hemos observado es en la función de reservar, ya que al pinchar en el botón simplemente se abre un formulario para enviar una pregunta, entonces sería mejor opción implementar la posibilidad de reservar o poner consulta en vez de reservar. 
+Estas recomendaciones constituyen una guía para futuras mejoras, buscando incentivar la participación del usuario, mejorando su experiencia y satisfaciendo sus necesidades.
+
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Las webs que hemos elegido han sido: “Granada aventura” cuya url es https://www.granadaaventura.com/ y “Tropical extreme” cuya url es https://www.tropicalextreme.com/.
+
+Hemos usado estas webs para compararlas con la propuesta de prácticas (Granaventour) porque se ofrecen actividades y servicios que son parecidos a lo que ofrece la web propuesta en prácticas, como por ejemplo rafting, senderismo, barranquismo…
+Además, las tres empresas son de Granada lo cual hace que sean competencia directa en este sector. Por estas dos razones, el catálogo de actividades que se ofrecen y la localización de las mismas hemos decidido realizar el análisis de competidores con estas tres páginas.
+
+Las tres webs tienen un fallo común y es que en ninguna se puede pagar una actividad y por tanto no se puede reservar una actividad a través de la web.
+
+De las tres creemos que la mejor es Tropical extreme” ya que ofrece un catálogo para eventos especiales como viajes de fin de curso y despedida de soltero lo cual hace que para estas ocasiones sea la única opción y además tiene un diseño moderno con un amplio catálogo.
+
+
+
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Para las personas hemos elegido un chico procedente de Extremadura y una chica polaca. Hemos elegido personas jóvenes que les gusta realizar deporte y actividades al aire libre ya que si no no tendría sentido que usaran la web. 
+Son personas que les gusta viajar y descubrir lugares nuevos así como nuevas sensaciones por lo que les gusta practicar deportes con algo de riesgo para así sentir algo de adrenalina.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+En cuanto a los mapas de usuarios hemos elegido dos que creemos que son bastante casuales. El primero de ellos es de Alejandro, el cual ha encontrado esta página a través de su hermano que está estudiando en Granada y le ha invitado un finde a la ciudad. El hermano de Alejandro le ha proporcionado esta página porque sabe que le gustan las actividades de este tipo aunque al usarla queda algo descontento ya que no hay mucha información clara ni se puede reservar la actividad. 
+Por otra parte tenemos a Alina que es una chica polaca que necesita cambiar de aires ya que en Polonia no hace buen tiempo y ha decidido junto con 3 amigos venirse a España. Los 4 son personas aventureras que les gusta todo tipo de deporte por lo que visitan la web en busca de senderismo y escalada pero los 4 quedan descontentos con la web y la información proporcionado y deciden visitar otra
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+A través de esta revisión de usabilidad nos hemos dado cuenta de los fallos que tenía nuestra página como por ejemplo que la función de cambiar el idioma no funciona, no tiene una sección de ayuda, la funcionalidad de buscar no funciona, no hay ningún tipo de filtro para buscar actividades, la funcionalidad de reservar una actividad no funciona correctamente. Estos son algunos de los fallos que hemos encontrado en la página gracias a la revisión de usabilidad. Además, cabe destacar que la puntuación obtenida de este análisis ha sido 68 puntos lo cual indica que es una página que se puede mejorar en bastantes aspectos y creemos que esta puntuación es correcta.
 
 ## Paso 2. UX Design  
 
