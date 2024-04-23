@@ -192,7 +192,7 @@ A través de esta revisión de usabilidad nos hemos dado cuenta de los fallos qu
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![](https://github.com/raulitoo5/DIU2024/blob/master/userFlow.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
