@@ -206,8 +206,15 @@ Análisis de tareas
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesion.png)
 
+![](https://github.com/raulitoo5/DIU2024/blob/master/inicio.png)
+
+![](https://github.com/raulitoo5/DIU2024/blob/master/categoriaRutas.png)
+
+![](https://github.com/raulitoo5/DIU2024/blob/master/Ruta.png)
+
+![](https://github.com/raulitoo5/DIU2024/blob/master/quienesSomos.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
