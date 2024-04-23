@@ -180,7 +180,7 @@ A través de esta revisión de usabilidad nos hemos dado cuenta de los fallos qu
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![](https://github.com/raulitoo5/DIU2024/blob/master/Mapa%20de%20empat%C3%ADa%20club%20senderista.png)
 
 
  Interesante | Críticas     
