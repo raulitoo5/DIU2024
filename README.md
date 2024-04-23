@@ -183,21 +183,11 @@ A través de esta revisión de usabilidad nos hemos dado cuenta de los fallos qu
 ![](https://github.com/raulitoo5/DIU2024/blob/master/Mapa%20de%20empat%C3%ADa%20club%20senderista.png)
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![](https://github.com/raulitoo5/DIU2024/blob/master/scope_canvas_5_print_es.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
