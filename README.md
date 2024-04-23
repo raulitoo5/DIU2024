@@ -187,7 +187,7 @@ A través de esta revisión de usabilidad nos hemos dado cuenta de los fallos qu
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-![](https://github.com/raulitoo5/DIU2024/blob/master/scope_canvas_5_print_es-1.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/scope_canvas_5_print_es.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
