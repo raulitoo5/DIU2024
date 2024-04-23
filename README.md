@@ -201,13 +201,7 @@ Análisis de tareas
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+![](https://github.com/raulitoo5/DIU2024/blob/master/Labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
