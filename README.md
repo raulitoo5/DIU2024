@@ -223,7 +223,7 @@ Análisis de tareas
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Hemos querido utilizar un diseño simple bicolor (blanco y negro) que represente el objetivo de nuestra página: el senderismo.
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
@@ -354,52 +354,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-
-
-# DIU - Practica 3
-
-## Moodboard (diseño visual + logotipo)   
-
-
-
-## Landing Page
-
-
-## Guidelines
-
->>> En nuestro diseño hemos empleado los siguientes elementos y componentes:
-
-	- Menu (lateral): Lista de opciones para permitir al usuario una cómoda navegación por la aplicación. El menú principal consta de los siguientes elementos:
-
-		- Inicio
-		- Datos personales
-		- Rutas montaña
-		- Rutas campo
-		- Rutas costa
-		- Rutas bosque
-		- Quiénes somos
-		- Cerrar sesión
-
-
-	- Navigation bar (superior): Barra de navegación que permite al usuario desplegar el menú principal, volver hacia atrás en las páginas y acceder a su sección de perfil de usuario.
-
-	- Card: Bloques de contenido que incluyen información de las rutas, imágenes de las mismas, información acerca del equipo que conforma la aplicación, etc.
-
-	- Button: Elemento interactivo que permite al usuario realizar diversidad de acciones ( confirmar reserva, iniciar/cerrar sesión, darse de baja como socio, etc ).
-
-	- Check box: Casilla de verificación con formato de cuadro interactivo que permite al usuario marcar o desmarcar una opción.
-
-	- Text field: Campo de texto que permite al usuario introducir texto de forma manual ( iniciar sesión, registrarse, búsqueda de rutas, edición de datos personales, etc ).
-
-
-
-## Mockup: LAYOUT HI-FI
-
-
-## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 
 
