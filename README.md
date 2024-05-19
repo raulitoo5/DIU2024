@@ -356,13 +356,22 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
+# DIU - Practica 3
 
-# PRÁCTICA 3
+## Moodboard (diseño visual + logotipo)   
 
 
-## MOODBOARD
 
->>>	Guía de estilos visual que representará a nuestra página web/aplicación.
+## Landing Page
+
+
+## Mockup: LAYOUT HI-FI
+
+
+## Documentación: Publicación del Case Study
+
+
+(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 
 
