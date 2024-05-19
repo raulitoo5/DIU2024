@@ -246,8 +246,22 @@ Análisis de tareas
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> En nuestro diseño, hemos decidido emplear principalmente los siguientes elementos y componentes:
+>>>
+- Menu (lateral): Lista de opciones para permitir al usuario una cómoda navegación por la aplicación. El menú principal consta de los siguientes elementos:
+ - Inicio
+ - Datos personales
+ - Rutas montaña
+ - Rutas campo
+ - Rutas costa
+ - Rutas bosque
+ - Quiénes somos
+ - Cerrar sesión
+- Navigation bar (superior): Barra de navegación que permite al usuario desplegar el menú principal, volver hacia atrás en las páginas y acceder a su sección de perfil de usuario.
+- Card: Bloques de contenido que incluyen información de las rutas, imágenes de las mismas, información acerca del equipo que conforma la aplicación, etc.
+- Button: Elemento interactivo que permite al usuario realizar diversidad de acciones ( confirmar reserva, iniciar/cerrar sesión, darse de baja como socio, etc ).
+- Check box: Casilla de verificación con formato de cuadro interactivo que permite al usuario marcar o desmarcar una opción.
+- Text field: Campo de texto que permite al usuario introducir texto de forma manual ( iniciar sesión, registrarse, búsqueda de rutas, edición de datos personales, etc ).
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
