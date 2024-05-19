@@ -354,9 +354,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-MOODBOARD
+### PRÁCTICA 3
 
-	Guía de estilos visual que representará a nuestra página web/aplicación.
+
+## MOODBOARD
+
+>>>	Guía de estilos visual que representará a nuestra página web/aplicación.
 
 
 
