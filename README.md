@@ -238,6 +238,7 @@ Análisis de tareas
 >>> En cuanto a la Landing Page, nuestro principal objetivo ha sido el de atraer la atención del cliente, con una frase breve pero efectiva: ¡Únete a NaturWalk!
 >>> A continuación, mostramos una imagen representando en qué consiste la página, e invitando al usuario a unirse a nosotros con una frase motivadora.
 >>> Además, incluimos algunas reseñas positivas de clientes actuales, e información de contacto.
+>>> Por último, incluimos una breve introducción a nuestro personal, para que el cliente sienta un trato cercano hacia nosotros.
 
 ![](https://github.com/raulitoo5/DIU2024/blob/master/landingpage1.png)
 ![](https://github.com/raulitoo5/DIU2024/blob/master/landingpage2.png)
