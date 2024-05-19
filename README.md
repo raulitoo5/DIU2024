@@ -354,6 +354,16 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
+MOODBOARD
+
+	Guía de estilos visual que representará a nuestra página web/aplicación.
+
+
+
+
+
+
+
 
 
 
