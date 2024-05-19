@@ -224,7 +224,7 @@ Análisis de tareas
 
 
 >>> Hemos querido utilizar un diseño simple bicolor (blanco y negro) que represente el objetivo de nuestra página: el senderismo.
->>> Incluir Logotipo
+![](https://github.com/raulitoo5/DIU2024/blob/master/moodboard1.png)
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
