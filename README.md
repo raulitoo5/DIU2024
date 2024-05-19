@@ -225,14 +225,22 @@ Análisis de tareas
 
 >>> Hemos querido utilizar un diseño simple bicolor (blanco y negro) que represente el objetivo de nuestra página: el senderismo.
 ![](https://github.com/raulitoo5/DIU2024/blob/master/moodboard1.png)
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![](https://github.com/raulitoo5/DIU2024/blob/master/moodboard2.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/moodboard3.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/moodboard4.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/moodboard5.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> En cuanto a la Landing Page, nuestro principal objetivo ha sido el de atraer la atención del cliente, con una frase breve pero efectiva: ¡Únete a NaturWalk!
+>>> A continuación, mostramos una imagen representando en qué consiste la página, e invitando al usuario a unirse a nosotros con una frase motivadora.
+>>> Además, incluimos algunas reseñas positivas de clientes actuales, e información de contacto.
+
+![](https://github.com/raulitoo5/DIU2024/blob/master/landingpage1.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/landingpage2.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
