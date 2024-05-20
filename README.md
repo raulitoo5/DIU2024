@@ -258,8 +258,8 @@ Análisis de tareas
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-![](https://github.com/raulitoo5/DIU2024/blob/master/Grabacion%20APP%20DIU.webm)
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Enlace a drive del video usando la app:
+https://drive.google.com/drive/u/0/folders/1Wlqk5HV5CXRRR_vwViPULrZ7ZBW_uDfU
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
