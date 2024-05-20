@@ -164,6 +164,12 @@ De las tres creemos que la mejor es Tropical extreme” ya que ofrece un catálo
 Para las personas hemos elegido un chico procedente de Extremadura y una chica polaca. Hemos elegido personas jóvenes que les gusta realizar deporte y actividades al aire libre ya que si no no tendría sentido que usaran la web. 
 Son personas que les gusta viajar y descubrir lugares nuevos así como nuevas sensaciones por lo que les gusta practicar deportes con algo de riesgo para así sentir algo de adrenalina.
 
+### Persona 1
+
+![](https://github.com/raulitoo5/DIU2024/blob/master/persona1.1.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/persona1.2.png)
+
+
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 En cuanto a los mapas de usuarios hemos elegido dos que creemos que son bastante casuales. El primero de ellos es de Alejandro, el cual ha encontrado esta página a través de su hermano que está estudiando en Granada y le ha invitado un finde a la ciudad. El hermano de Alejandro le ha proporcionado esta página porque sabe que le gustan las actividades de este tipo aunque al usarla queda algo descontento ya que no hay mucha información clara ni se puede reservar la actividad. 
