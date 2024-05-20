@@ -172,6 +172,7 @@ Son personas que les gusta viajar y descubrir lugares nuevos así como nuevas se
 ### Persona 2
 
 ![](https://github.com/raulitoo5/DIU2024/blob/master/persona1.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/UserJorneyP1.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
