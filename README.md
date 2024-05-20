@@ -28,11 +28,11 @@ Miembros
 
 ## INTRODUCCIÓN
 ## ¿De qué trata el proyecto?
-			Nuestro proyecto consiste en analizar la página
+Nuestro proyecto consiste en analizar la página
                          web de GranadaVentour para realizar un análisis
                          de usabilidad de la misma
 ## ¿Cuál es el propósito de esta investigación? ¿Qué ideas se generarán con esta investigación?
- 	El propósito de esta investigación es intentar
+El propósito de esta investigación es intentar
          proporcionar las mejores soluciones a los usuarios
          que usan este sitio web
          
@@ -55,7 +55,7 @@ Información cualitativa: sugerencias, opiniones, comentarios
 Información cuantitativa: datos de los usuarios como la edad y el género así como algunas métricas como el tiempo en la plataforma, las actividades más demandadas y las funcionalidades más usadas.
 
 ## ¿ Qué documentos o artefactos deberán crearse ?
->>> Los documentos que vamos a crear son:
+Los documentos que vamos a crear son:
 - 2 storyboards o journeymap que muestra las iteraciones de los usuarios con el producto
 - Revisión de usabilidad
 - Análisis de la competencia
