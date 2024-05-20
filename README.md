@@ -279,14 +279,14 @@ Enlace a drive del video usando la app:
 https://drive.google.com/drive/u/0/folders/1Wlqk5HV5CXRRR_vwViPULrZ7ZBW_uDfU
 
 
-![Método UX]  3.e Valores añadidos
+ 3.e Valores añadidos
 ----
 Hemos pensado en la implementación de una serie de funcionalidades extra, pero debido al esfuerzo requerido y al tiempo limitado, no las hemos incluído. Algunas de estas ideas son:
 - Sección para el administrador en la que puede crear y personalizar nuevas rutas, así como publicarlas.
 - Un chat online de atención al cliente en el que el usuario puede conversar directamente con el personal de cara a solucionar problemas o resolver dudas.
 - Un catálogo de cursos de pago para aprender disciplinas específicas y profundizar en categorías de senderismo concretas.
 
-![Método UX]  3.f Comentarios
+3.f Comentarios
 ----
 En la implementación móvil, el menú lateral no es funcional en todas y cada una de las pantallas, ya que suponía un trabajo demasiado costoso. Simplemente se encuentra funcional en las acciones más comunes de realizar en la app.
 
