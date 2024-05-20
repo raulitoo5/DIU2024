@@ -55,7 +55,7 @@ Información cualitativa: sugerencias, opiniones, comentarios
 Información cuantitativa: datos de los usuarios como la edad y el género así como algunas métricas como el tiempo en la plataforma, las actividades más demandadas y las funcionalidades más usadas.
 
 ## ¿ Qué documentos o artefactos deberán crearse ?
-	Los documentos que vamos a crear son:
+>>> Los documentos que vamos a crear son:
 - 2 storyboards o journeymap que muestra las iteraciones de los usuarios con el producto
 - Revisión de usabilidad
 - Análisis de la competencia
