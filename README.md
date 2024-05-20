@@ -81,7 +81,7 @@ Decisiones de diseño accesible. En caso de encontrarnos que la página no está
 
 ## Utilidad: ¿ Es el contenido útil para los usuarios interesados?
 	
-	Si. El contenido está ceñido a lo que los usuarios buscan: diferentes tipos de actividades/deportes a su gusto, con toda la información referente a cada una de ellas. Los usuarios pueden, de forma complementaria, visualizar contenido multimedia de las actividades, reservarlas, consultar información y preguntar dudas (atención al cliente), etc.
+Si. El contenido está ceñido a lo que los usuarios buscan: diferentes tipos de actividades/deportes a su gusto, con toda la información referente a cada una de ellas. Los usuarios pueden, de forma complementaria, visualizar contenido multimedia de las actividades, reservarlas, consultar información y preguntar dudas (atención al cliente), etc.
 	
 
 ## Aprendizaje: ¿ Cómo de fácil resulta para los usuarios lidiar con tareas básicas la primera vez que se encuentran con el diseño ?
@@ -91,7 +91,7 @@ Fácil. El contenido está estructurado de forma que es bastante simple visualiz
 
 ## Eficiencia: Una vez que los usuarios han aprendido el diseño, ¿ con cuánta rapidez pueden llevar a cabo tareas ?
 
-	La página web cuenta con un diseño intuitivo y fácil de usar, de forma que con un sólo vistazo el usuario será capaz de navegar por todos los rincones sin ningún tipo de problema. La idea es que el usuario cumpla sus objetivos en el menor tiempo posible, evitando la frustración del mismo.
+La página web cuenta con un diseño intuitivo y fácil de usar, de forma que con un sólo vistazo el usuario será capaz de navegar por todos los rincones sin ningún tipo de problema. La idea es que el usuario cumpla sus objetivos en el menor tiempo posible, evitando la frustración del mismo.
 
 
 ## Memorabilidad: Cuando los usuarios vuelven al diseño después de un tiempo sin usarlo, ¿ cómo de fácil pueden volver a familiarizarse de forma efectiva ?
@@ -138,8 +138,8 @@ Personas que les guste los deportes de nieve ya que ofrecen muchas actividades e
 
 ## CONCLUSIÓN
 
-	Tras realizar una exhaustiva investigación mediante métodos como la etnografía o las pruebas de usabilidad, se ha obtenido una visión integral de la experiencia del usuario en la página web estudiada.
-	La utilidad, el aprendizaje, la eficiencia y la detección de errores han sido abordados con total precisión. Destacar la importancia de mejorar la claridad de la información, implementar recursos multimedia, optimizar la eficiencia del sitio y abordar problemas de usabilidad específicos. Además, hay algunos aspectos que son muy mejorables de esta página, como por ejemplo la funcionalidad de cambiar el idioma ya que no funciona y sería buena opción arreglarla o al menos quitarla, ya que mostrar una funcionalidad que no hace nada queda muy poco profesional. Otra mejora que hemos observado es en la función de reservar, ya que al pinchar en el botón simplemente se abre un formulario para enviar una pregunta, entonces sería mejor opción implementar la posibilidad de reservar o poner consulta en vez de reservar. 
+Tras realizar una exhaustiva investigación mediante métodos como la etnografía o las pruebas de usabilidad, se ha obtenido una visión integral de la experiencia del usuario en la página web estudiada.
+La utilidad, el aprendizaje, la eficiencia y la detección de errores han sido abordados con total precisión. Destacar la importancia de mejorar la claridad de la información, implementar recursos multimedia, optimizar la eficiencia del sitio y abordar problemas de usabilidad específicos. Además, hay algunos aspectos que son muy mejorables de esta página, como por ejemplo la funcionalidad de cambiar el idioma ya que no funciona y sería buena opción arreglarla o al menos quitarla, ya que mostrar una funcionalidad que no hace nada queda muy poco profesional. Otra mejora que hemos observado es en la función de reservar, ya que al pinchar en el botón simplemente se abre un formulario para enviar una pregunta, entonces sería mejor opción implementar la posibilidad de reservar o poner consulta en vez de reservar. 
 Estas recomendaciones constituyen una guía para futuras mejoras, buscando incentivar la participación del usuario, mejorando su experiencia y satisfaciendo sus necesidades.
 
 
