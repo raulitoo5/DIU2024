@@ -170,7 +170,7 @@ Son personas que les gusta viajar y descubrir lugares nuevos así como nuevas se
 
 ### Persona 2
 
-![](https://github.com/raulitoo5/DIU2024/blob/master/persona1.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/persona2.1.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
@@ -179,7 +179,7 @@ En cuanto a los mapas de usuarios hemos elegido dos que creemos que son bastante
 Por otra parte tenemos a Alina que es una chica polaca que necesita cambiar de aires ya que en Polonia no hace buen tiempo y ha decidido junto con 3 amigos venirse a España. Los 4 son personas aventureras que les gusta todo tipo de deporte por lo que visitan la web en busca de senderismo y escalada pero los 4 quedan descontentos con la web y la información proporcionado y deciden visitar otra
 
 ![](https://github.com/raulitoo5/DIU2024/blob/master/persona1.2.png)
-![](https://github.com/raulitoo5/DIU2024/blob/master/UserJorneyP1.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/persona2.2.png)
 
 
 
