@@ -274,7 +274,7 @@ Análisis de tareas
 
 Exportación a HTML/Flutter
 -----
-
+![](https://github.com/raulitoo5/DIU2024/blob/master/Grabacion%20APP%20DIU.webm)
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
 >>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
