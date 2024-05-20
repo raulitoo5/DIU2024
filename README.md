@@ -12,7 +12,7 @@ Descripción:
 El objetivo de esta práctica es realizar un análisis UX a la página de la empresa GranaVentour
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+(logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Raúl Cruz Arévalo     :octocat:     
