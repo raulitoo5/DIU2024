@@ -269,6 +269,9 @@ Análisis de tareas
 - Button: Elemento interactivo que permite al usuario realizar diversidad de acciones ( confirmar reserva, iniciar/cerrar sesión, darse de baja como socio, etc ).
 - Check box: Casilla de verificación con formato de cuadro interactivo que permite al usuario marcar o desmarcar una opción.
 - Text field: Campo de texto que permite al usuario introducir texto de forma manual ( iniciar sesión, registrarse, búsqueda de rutas, edición de datos personales, etc ).
+- Dialog: Es un componente que sirve para mostrar una alerta y tiene varias acciones posibles en nuestro caso lo hemos usado para crear un mensaje con la ruta que se va a reservar y la opción de cancelar la reserva y la opción de confirmar reserva
+  
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -276,12 +279,17 @@ Enlace a drive del video usando la app:
 https://drive.google.com/drive/u/0/folders/1Wlqk5HV5CXRRR_vwViPULrZ7ZBW_uDfU
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
+![Método UX]  3.e Valores añadidos
+----
+Hemos pensado en la implementación de una serie de funcionalidades extra, pero debido al esfuerzo requerido y al tiempo limitado, no las hemos incluído. Algunas de estas ideas son:
+- Sección para el administrador en la que puede crear y personalizar nuevas rutas, así como publicarlas.
+- Un chat online de atención al cliente en el que el usuario puede conversar directamente con el personal de cara a solucionar problemas o resolver dudas.
+- Un catálogo de cursos de pago para aprender disciplinas específicas y profundizar en categorías de senderismo concretas.
 
+![Método UX]  3.f Comentarios
+----
+En la implementación móvil, el menú lateral no es funcional en todas y cada una de las pantallas, ya que suponía un trabajo demasiado costoso. Simplemente se encuentra funcional en las acciones más comunes de realizar en la app.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
