@@ -258,7 +258,7 @@ Análisis de tareas
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
+![](https://github.com/raulitoo5/DIU2024/blob/master/Grabacion%20APP%20DIU.webm)
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
