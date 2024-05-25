@@ -280,8 +280,12 @@ https://drive.google.com/drive/u/0/folders/1Wlqk5HV5CXRRR_vwViPULrZ7ZBW_uDfU
 
 3.e Capturas aplicación
 ----
-### Inicio Sesión
+### Inicio Sesión  |  Quiénes Somos
 ![](https://github.com/raulitoo5/DIU2024/blob/master/captura1.png)  
+
+### Pantalla Principal  |  Menú Lateral Desplegable
+![](https://github.com/raulitoo5/DIU2024/blob/master/captura2.png)  
+![](https://github.com/raulitoo5/DIU2024/blob/master/captura3.png)  
 
 
  3.f Valores añadidos
