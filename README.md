@@ -281,7 +281,7 @@ https://drive.google.com/drive/u/0/folders/1Wlqk5HV5CXRRR_vwViPULrZ7ZBW_uDfU
 3.e Capturas aplicación
 ----
 ### Inicio Sesión
-![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesionimg.jpg)
+![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesionimg.jpg)   ![](https://github.com/raulitoo5/DIU2024/blob/master/quienessomosimg.jpg)
 
 
  3.f Valores añadidos
