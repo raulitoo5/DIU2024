@@ -290,6 +290,10 @@ https://drive.google.com/drive/u/0/folders/1Wlqk5HV5CXRRR_vwViPULrZ7ZBW_uDfU
 ### Datos Personales  |  Realizar Reserva Ruta
 ![](https://github.com/raulitoo5/DIU2024/blob/master/captura4.png)  
 
+### Ruta Cahorros (ejemplo ruta)  |  Rutas Costa (categoría)
+![](https://github.com/raulitoo5/DIU2024/blob/master/captura5.png)  
+![](https://github.com/raulitoo5/DIU2024/blob/master/captura6.png)
+
 
  3.f Valores añadidos
 ----
