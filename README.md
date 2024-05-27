@@ -431,11 +431,21 @@ Por otro lado, nuestra aplicación (NATURWALK) ha obtenido una puntuación de 70
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+## Nombre del proyecto
+Feton't
 
+## Fecha
+27/05/2024
 
+## Realizado por:
+- Raúl Cruz Arévalo
+- Manuel Rodríguez Romero
 
->>> Valoración personal 
+## Descripción
+La aplicación es una app web que está especializada en viajes de aventura, cursos, rutas y actividades al aire libre. Esta app ofrece una gran variedad de experiencias, que van desde los deportes extremos como barranquismo, escalada y esquí hasta actividades de turismo.
+
+## Metodología
+Para realizar el informe de usabilidad hemos usado la técnica del A/B Testing la cual es una técnica que se usa para comparar dos prototipos para un producto similar (en este caso dos aplicaciones para ofrecer actividades de aventura).  Además, también hemos usado la técnica del cuestionario SUS que se usa para medir la percepción subjetiva de usabilidad con un enfoque basado en aspectos emocionales (sensaciones).
 
 
 
