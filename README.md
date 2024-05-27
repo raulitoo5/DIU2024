@@ -444,10 +444,16 @@ Feton't
 ### Descripción
 La aplicación es una app web que está especializada en viajes de aventura, cursos, rutas y actividades al aire libre. Esta app ofrece una gran variedad de experiencias, que van desde los deportes extremos como barranquismo, escalada y esquí hasta actividades de turismo.
 
+### Resumen ejecutivo
+El propósito de este informe es evaluar la usabilidad del sitio web FETON´T con el fin de identificar áreas de mejora que optimicen la experiencia del usuario y aumenten la eficiencia, efectividad y satisfacción general durante la navegación.
+Este documento contiene un informe de usabilidad del caso B ( aplicación FETON´T). A modo de resumen, la práctica ha superado nuestras expectativas ya que hemos analizado los datos obtenidos a través de las pruebas realizadas por los usuarios (cuestionario SUS) obteniendo una puntuación bastante alta lo cual indica que está bien realizada. Además, también ha superado las pruebas realizadas por el equipo de diseñadores de experiencias de usuario (Manu y Raúl) no encontrando ningún error que tenga una gran relevancia.
+
 ### Metodología
 Para realizar el informe de usabilidad hemos usado la técnica del A/B Testing la cual es una técnica que se usa para comparar dos prototipos para un producto similar (en este caso dos aplicaciones para ofrecer actividades de aventura).  Además, también hemos usado la técnica del cuestionario SUS que se usa para medir la percepción subjetiva de usabilidad con un enfoque basado en aspectos emocionales (sensaciones).
 
-
+### Puntos positivos
+- Interfaz Intuitiva: La app cuenta con una interfaz limpia y fácil de entender, lo que facilita su uso para usuarios de diferentes edades y niveles de experiencia tecnológica.
+- Calendario: la app cuenta con un calendario que muestra las actividades que se van a realizar ese mes por lo que un usuario puede ver de un solo vistazo la programación para un mes en concreto.
 
 
 
