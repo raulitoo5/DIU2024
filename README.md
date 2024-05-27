@@ -320,14 +320,11 @@ Exportación a HTML/Flutter
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+![](https://github.com/raulitoo5/DIU2024/blob/master/pantallaprincipalimg.jpg)
+![](https://github.com/raulitoo5/DIU2024/blob/master/datorpersonalesimg.jpg)
+![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesionimg.jpg)
+![](https://github.com/raulitoo5/DIU2024/blob/master/rutacohorrosimg.jpg)
 
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 Resultados y valoración 
 -----
