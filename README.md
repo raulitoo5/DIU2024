@@ -375,56 +375,56 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 ### Usuario 1
-Nombre: Iván
-Relación: Compañero de piso de Raúl
-Sexo: Hombre
-Ocupación: Estudiante
-Edad: 15-30
-Experiencia en Internet: Media
+- Nombre: Iván
+- Relación: Compañero de piso de Raúl
+- Sexo: Hombre
+- Ocupación: Estudiante
+- Edad: 15-30
+- Experiencia en Internet: Media
 
 ### Usuario 2
-Nombre: Paki
-Relación: Madre de Raúl
-Sexo: Mujer
-Ocupación: Trabajadora
-Edad: 45-60
-Experiencia en Internet: Media
+- Nombre: Paki
+- Relación: Madre de Raúl
+- Sexo: Mujer
+- Ocupación: Trabajadora
+- Edad: 45-60
+- Experiencia en Internet: Media
 
 ### Resultado SUS usuario 1 (Iván).
 Este usuario ha valorado nuestro diseño (NATURWALK)
 
-IMG1
+![](https://github.com/raulitoo5/DIU2024/blob/master/sus1.png)
 
 ### Resultado SUS usuario 2 (Paky)
 Este usuario ha valorado la propuesta B (FETON´T)
 
-IMG2
+![](https://github.com/raulitoo5/DIU2024/blob/master/sus2.png)
 
 ### Usuario 3
-Nombre: Esperanza
-Relación: Madre de Manuel
-Sexo: Mujer
-Ocupación: Funcionaria
-Edad: 50-60
-Experiencia en Internet: Baja
+- Nombre: Esperanza
+- Relación: Madre de Manuel
+- Sexo: Mujer
+- Ocupación: Funcionaria
+- Edad: 50-60
+- Experiencia en Internet: Baja
 
 ### Usuario 4
-Nombre: Pablo
-Relación: Amigo de Manuel
-Sexo: Hombre
-Ocupación: Estudiante
-Edad: 15-30
-Experiencia en Internet: Alta
+- Nombre: Pablo
+- Relación: Amigo de Manuel
+- Sexo: Hombre
+- Ocupación: Estudiante
+- Edad: 15-30
+- Experiencia en Internet: Alta
 
 ### Resultado SUS usuario 3 (Esperanza).
 Este usuario ha valorado nuestro diseño (NATURWALK)
 
-IMG3
+![](https://github.com/raulitoo5/DIU2024/blob/master/sus3.png)
 
 ### Resultado SUS usuario 4 (Pablo).
 Este usuario ha valorado la propuesta B (FETON´T)
 
-IMG4
+![](https://github.com/raulitoo5/DIU2024/blob/master/sus4.png)
 
 
 ### Conclusión
