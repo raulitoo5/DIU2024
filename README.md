@@ -357,10 +357,10 @@ Resultados y valoración
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Iván          | H/15-30  | Estudiante  | Media       | Gentil       | Móvil      | A (NATURWALK)
+| Paki          | M/45-60  | Trabajadora | Media       | Introvertida | Móvil      | B (FETON'T)
+| Esperanza     | M/50-60  | Funcionaria | Baja        | Emocional    | Móvil      | A (NATURWALK)
+| Pablo         | H/15-30  | Estudiante  | Alta        | Moderno      | Móvil      | B (FETON'T)
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
