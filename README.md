@@ -332,10 +332,11 @@ Diseño del experimento
 Resultados y valoración 
 -----
 
+![](https://github.com/raulitoo5/DIU2024/blob/master/paginaprincipalheat.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/datospersonalesheat.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesionheat.png)
+![](https://github.com/raulitoo5/DIU2024/blob/master/rutacahorrosheat.png)
 
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
 
 
 
