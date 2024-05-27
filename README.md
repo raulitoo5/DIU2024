@@ -332,6 +332,9 @@ Diseño del experimento
 Resultados y valoración 
 -----
 
+Como podemos observar, el usuario generalmente se centra en los elementos principales de cada pantalla, aunque hay pequeñas distracciones. Por ejemplo, en la pantalla principal, la visión del usuario se centra en la parte superior debido al scroll. En la sección de datos personales, la visión del usuario se desvía ligeramente hacia la derecha, por lo que podemos entender que hay una posible falta de información en el lado izquierdo. En las pantallas de inicio de sesión y de ruta de los cahorros, el usuario se centra en los elementos fundamentales: botones, cuadros de texto relevantes, etc.
+
+
 ![](https://github.com/raulitoo5/DIU2024/blob/master/paginaprincipalheat.png)
 ![](https://github.com/raulitoo5/DIU2024/blob/master/datospersonalesheat.png)
 ![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesionheat.png)
