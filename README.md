@@ -320,11 +320,6 @@ Exportación a HTML/Flutter
 Diseño del experimento 
 ----
 
-![](https://github.com/raulitoo5/DIU2024/blob/master/pantallaprincipalimg.jpg)
-![](https://github.com/raulitoo5/DIU2024/blob/master/datorpersonalesimg.jpg)
-![](https://github.com/raulitoo5/DIU2024/blob/master/iniciosesionimg.jpg)
-![](https://github.com/raulitoo5/DIU2024/blob/master/rutacohorrosimg.jpg)
-
 
 Resultados y valoración 
 -----
