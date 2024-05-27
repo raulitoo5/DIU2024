@@ -374,7 +374,67 @@ Como podemos observar, el usuario generalmente se centra en los elementos princi
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+### Usuario 1
+Nombre: Iván
+Relación: Compañero de piso de Raúl
+Sexo: Hombre
+Ocupación: Estudiante
+Edad: 15-30
+Experiencia en Internet: Media
+
+### Usuario 2
+Nombre: Paki
+Relación: Madre de Raúl
+Sexo: Mujer
+Ocupación: Trabajadora
+Edad: 45-60
+Experiencia en Internet: Media
+
+### Resultado SUS usuario 1 (Iván).
+Este usuario ha valorado nuestro diseño (NATURWALK)
+
+IMG1
+
+### Resultado SUS usuario 2 (Paky)
+Este usuario ha valorado la propuesta B (FETON´T)
+
+IMG2
+
+### Usuario 3
+Nombre: Esperanza
+Relación: Madre de Manuel
+Sexo: Mujer
+Ocupación: Funcionaria
+Edad: 50-60
+Experiencia en Internet: Baja
+
+### Usuario 4
+Nombre: Pablo
+Relación: Amigo de Manuel
+Sexo: Hombre
+Ocupación: Estudiante
+Edad: 15-30
+Experiencia en Internet: Alta
+
+### Resultado SUS usuario 3 (Esperanza).
+Este usuario ha valorado nuestro diseño (NATURWALK)
+
+IMG3
+
+### Resultado SUS usuario 4 (Pablo).
+Este usuario ha valorado la propuesta B (FETON´T)
+
+IMG4
+
+
+### Conclusión
+Como podemos comprobar en el test SUS, los usuarios valoran positivamente ambas aplicaciones, pero FETON´T ( 80 y 77,5 ) es ligeramente mejor valorada que NATURWALK ( 70 y 65 ). Hemos intentado escoger personas de características diversas, tanto en edad como en experiencia en Internet, para así obtener retroalimentación de todo tipo de usuarios.
+
+
+La aplicación FETON´t ha obtenido una puntuación  de 80 y 77,5 lo cual quiere decir que está categorizada como A lo que significa que las personas aman el sitio y se lo van a recomendar a sus amigos. Esto es debido a que el sitio es muy intuitivo, muy fácil de usar y tiene un diseño muy simple y moderno lo cual hace que sea muy atractivo.
+
+Por otro lado, nuestra aplicación (NATURWALK) ha obtenido una puntuación de 70 y 65 puntos lo cual quiere decir que está dentro de la categoría C que significa que la página está bien hecha pero se podría mejorar. Algunos aspectos a mejorar serían que la página es muy larga por lo que necesitamos realizar un gran recorrido para verla entera. Además, el menú lateral no debería de tener submenús salientes. Estos son algunos aspectos a mejorar en nuestra app.
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
