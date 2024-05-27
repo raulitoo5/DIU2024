@@ -349,14 +349,13 @@ Como podemos observar, el usuario generalmente se centra en los elementos princi
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Feton't -> La aplicación es una app web que está especializada en viajes de aventura, cursos, rutas y actividades al aire libre. Esta app ofrece una gran variedad de experiencias, que van desde los deportes extremos como barranquismo, escalada y esquí hasta actividades de turismo.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Enlace a repositorio:     https://github.com/carmenxufdz/DIU24/blob/master/P3/LayoutHiFi.pdf
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
